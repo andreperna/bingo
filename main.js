@@ -1,3 +1,4 @@
+buttons = document.querySelectorAll('button')
 sortedNumber = document.querySelector('#sorted-number')
 let fullscreen = false
 
